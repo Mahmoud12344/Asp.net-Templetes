@@ -8,6 +8,6 @@ dotnet new install ./
 - to uninstall :
 
 ```bash
-```dotnet new uninstall <template-name> 
+dotnet new uninstall <template-name> 
 ```
 
