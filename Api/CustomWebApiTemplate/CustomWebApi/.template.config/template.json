@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Mahmoud",
+  "classifications": ["Web", "WebAPI", "API"],
+  "name": "Custom Controller API with Swagger",
+  "identity": "Custom.WebApi.Controllers.Swagger",
+  "shortName": "api-custom",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "CustomWebApi",
+  "preferNameDirectory": true
+}
